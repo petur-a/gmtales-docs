@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="g"
+                 name="gmtales-docs"
+                 start-page="gmtales-docs.md">
+
+    <toc-element topic="gmtales-docs.md"/>
+    <toc-element topic="Definitions.md"/>
+    <toc-element topic="Writing.md"/>
+    <toc-element topic="Navigation.md"/>
+    <toc-element topic="Further-work.md"/>
+</instance-profile>
